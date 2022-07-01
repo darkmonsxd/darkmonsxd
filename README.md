@@ -32,3 +32,9 @@ module.exports = Papaz
     <img alt="HTML5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img alt="CSS3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
 </div>
+
+##  Contact
+
+<div align="center">
+    <a href="https://discord.com/users/435063531579113482" target="_blank"><img src="https://img.shields.io/badge/-Darkmonsxd-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://github.com/darkmonsxd" target="_blank"><img src="https://img.shields.io/badge/-Darkmonsxd-black?style=for-the-badge&logo=github&logoColor=white"></a>
