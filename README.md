@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://78.media.tumblr.com/9c6967cd5f9e1ce4492cfec3f63ca4ca/tumblr_ouulyiv3Go1qaq4ego6_1280.gif"/>
 
 ```js
-class Papaz {
+class Darkmonsxd {
     constructor(options) {
         this.name = "Eren",
         this.sex = "man",
@@ -11,11 +11,11 @@ class Papaz {
         this.job = "developer",
         this.weight = "70",
         this.age = "21",
-        this.discord.tag = "Papazxd#3477"
+        this.discord.tag = "darkmons#8946"
     };
 }
 
-module.exports = Papaz
+module.exports = Darkmonsxd
 ```
 ## Github Stats
 ![Darkmonsxd's github stats](https://github-readme-stats.vercel.app/api?username=darkmonsxd&show_icons=true&theme=radical) 
